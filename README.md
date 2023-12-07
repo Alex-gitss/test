@@ -1,2 +1,2 @@
 # test
-a text for git pull
+a text repo for git push
